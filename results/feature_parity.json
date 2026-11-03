@@ -1,0 +1,7 @@
+{
+  "identical_classes": true,
+  "maximum_probability_difference": 0.0,
+  "feature_width": 1024,
+  "checkpoint_sha256": "00528f384620e96cde18398e5a7f6caf4f3e61825979e9c940e142d6d6b9eb62",
+  "note": "This is an extraction-equivalence check; test accuracy is reported only after GA selection is locked."
+}

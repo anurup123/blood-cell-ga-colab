@@ -1,0 +1,32 @@
+{
+  "config": {
+    "seed": 42,
+    "image_size": 128,
+    "batch_size": 64,
+    "warmup_epochs": 2,
+    "finetune_epochs": 20,
+    "early_stopping_patience": 5,
+    "warmup_learning_rate": 0.001,
+    "finetune_learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "svm_c_candidates": [
+      0.1,
+      1.0,
+      10.0
+    ],
+    "ga_population": 18,
+    "ga_generations": 20,
+    "ga_accuracy_weight": 0.99,
+    "ga_elites": 2,
+    "ga_tournament": 3,
+    "ga_crossover_probability": 0.8,
+    "ga_workers": 2,
+    "cpu_threads": 4,
+    "deduplication": "remove_train_matches_to_val_or_test_and_val_matches_to_test"
+  },
+  "checkpoint_sha256": "00528f384620e96cde18398e5a7f6caf4f3e61825979e9c940e142d6d6b9eb62",
+  "best_validation_accuracy": 0.990064263343811,
+  "best_epoch": 6,
+  "epochs_run": 11,
+  "training_seconds": 278.394914700184
+}

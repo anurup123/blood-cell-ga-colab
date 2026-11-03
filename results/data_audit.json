@@ -1,0 +1,46 @@
+{
+  "dataset_sha256": "2c2c2a1787db749abcac06779eb6988c2a3919445f01617ada7fe1468828fa96",
+  "official_md5_verified": true,
+  "original_exact_image_duplicates_across_splits": {
+    "train_val": 3,
+    "train_test": 5,
+    "val_test": 1
+  },
+  "remaining_exact_image_duplicates_across_splits": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "removed_duplicate_image_ids": {
+    "train": [
+      "train_01018",
+      "train_02835",
+      "train_04375",
+      "train_04995",
+      "train_07646",
+      "train_08530",
+      "train_10505",
+      "train_11443"
+    ],
+    "val": [
+      "val_01593"
+    ]
+  },
+  "official_test_set_unchanged": true,
+  "split_sizes": {
+    "train": 11951,
+    "val": 1711,
+    "test": 3421
+  },
+  "class_names": [
+    "basophil",
+    "eosinophil",
+    "erythroblast",
+    "immature granulocyte",
+    "lymphocyte",
+    "monocyte",
+    "neutrophil",
+    "platelet"
+  ],
+  "split_scope": "Official image-level splits with exact train/validation overlaps removed. Test set unchanged. Patient-independent generalization is not established."
+}

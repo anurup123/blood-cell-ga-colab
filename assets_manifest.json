@@ -1,0 +1,16 @@
+{
+  "repository": "anurup123/blood-cell-ga-colab",
+  "release": "v1.0.0",
+  "model_bundle": {
+    "name": "blood_cell_model_bundle_v1.zip",
+    "size": 97122781,
+    "sha256": "ee3984711d453ee6f4bf88610758a64dcea428cb91b1e514c7265d6104bd092b"
+  },
+  "dataset": {
+    "name": "bloodmnist_128.npz",
+    "size": 569072780,
+    "sha256": "2c2c2a1787db749abcac06779eb6988c2a3919445f01617ada7fe1468828fa96",
+    "official_url": "https://zenodo.org/records/10519652/files/bloodmnist_128.npz?download=1",
+    "official_md5": "adace1e0ed228fccda1f39692059dd4c"
+  }
+}

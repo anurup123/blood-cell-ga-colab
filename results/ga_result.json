@@ -1,0 +1,16 @@
+{
+  "algorithm": "standard_binary_genetic_algorithm",
+  "fitness": 0.9907031763679865,
+  "validation_accuracy": 0.9929865575686733,
+  "selected_features": 241,
+  "total_features": 1024,
+  "all_feature_validation_accuracy": 0.98947983635301,
+  "accuracy_weight": 0.99,
+  "svm_C": 0.1,
+  "unique_masks_evaluated": 260,
+  "generations": 20,
+  "population_size": 18,
+  "elapsed_seconds": 392.06426456407644,
+  "seed": 42,
+  "evaluation_workers": 8
+}

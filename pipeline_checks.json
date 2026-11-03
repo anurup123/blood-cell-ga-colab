@@ -1,0 +1,9 @@
+{
+  "ga_score_matches_independent_svm_fit": true,
+  "ga_returns_nonempty_feature_mask": true,
+  "final_generation_is_evaluated": true,
+  "best_fitness_is_preserved": true,
+  "actual_keras_feature_rows_match_input_images": true,
+  "labels_and_ids_remain_paired": true,
+  "extracted_head_matches_image_model": true
+}

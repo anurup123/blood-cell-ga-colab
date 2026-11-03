@@ -1,0 +1,13 @@
+{
+  "execution_mode": "cached",
+  "all_code_cells_executed": true,
+  "code_cells": 32,
+  "notebook_schema_valid": true,
+  "no_error_outputs": true,
+  "dataset": "BloodMNIST 128",
+  "test_images": 3421,
+  "shared_svm_all_accuracy": 0.9891844489915229,
+  "shared_svm_ga_accuracy": 0.9874305758550131,
+  "shared_selected_features": 241,
+  "mode": "verify"
+}

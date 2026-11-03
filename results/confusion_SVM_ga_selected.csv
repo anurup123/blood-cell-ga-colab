@@ -1,0 +1,9 @@
+,basophil,eosinophil,erythroblast,immature granulocyte,lymphocyte,monocyte,neutrophil,platelet
+basophil,241,0,0,3,0,0,0,0
+eosinophil,0,624,0,0,0,0,0,0
+erythroblast,1,0,307,2,0,0,1,0
+immature granulocyte,0,0,1,566,0,1,11,0
+lymphocyte,0,0,0,0,242,1,0,0
+monocyte,0,0,0,2,2,280,0,0
+neutrophil,0,2,0,16,0,0,648,0
+platelet,0,0,0,0,0,0,0,470

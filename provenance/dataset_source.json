@@ -1,0 +1,34 @@
+{
+  "source_url": "https://raw.githubusercontent.com/MedMNIST/MedMNIST/main/medmnist/info.py",
+  "source_sha256": "d85e77f308dcfad2000b610448cefbae7fae69d8f2a7ac15a3f1686fc289c8d2",
+  "dataset": {
+    "python_class": "BloodMNIST",
+    "description": "The BloodMNIST is based on a dataset of individual normal cells, captured from individuals without infection, hematologic or oncologic disease and free of any pharmacologic treatment at the moment of blood collection. It contains a total of 17,092 images and is organized into 8 classes. We split the source dataset with a ratio of 7:1:2 into training, validation and test set. The source images with resolution 3\u00d7360\u00d7363 pixels are center-cropped into 3\u00d7200\u00d7200, and then resized into 3\u00d728\u00d728.",
+    "url": "https://zenodo.org/records/10519652/files/bloodmnist.npz?download=1",
+    "MD5": "7053d0359d879ad8a5505303e11de1dc",
+    "url_64": "https://zenodo.org/records/10519652/files/bloodmnist_64.npz?download=1",
+    "MD5_64": "2b94928a2ae4916078ca51e05b6b800b",
+    "url_128": "https://zenodo.org/records/10519652/files/bloodmnist_128.npz?download=1",
+    "MD5_128": "adace1e0ed228fccda1f39692059dd4c",
+    "url_224": "https://zenodo.org/records/10519652/files/bloodmnist_224.npz?download=1",
+    "MD5_224": "b718ff6835fcbdb22ba9eacccd7b2601",
+    "task": "multi-class",
+    "label": {
+      "0": "basophil",
+      "1": "eosinophil",
+      "2": "erythroblast",
+      "3": "immature granulocytes(myelocytes, metamyelocytes and promyelocytes)",
+      "4": "lymphocyte",
+      "5": "monocyte",
+      "6": "neutrophil",
+      "7": "platelet"
+    },
+    "n_channels": 3,
+    "n_samples": {
+      "train": 11959,
+      "val": 1712,
+      "test": 3421
+    },
+    "license": "CC BY 4.0"
+  }
+}

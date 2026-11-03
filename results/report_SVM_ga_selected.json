@@ -1,0 +1,63 @@
+{
+  "basophil": {
+    "precision": 0.9958677685950413,
+    "recall": 0.9877049180327869,
+    "f1-score": 0.9917695473251029,
+    "support": 244.0
+  },
+  "eosinophil": {
+    "precision": 0.9968051118210862,
+    "recall": 1.0,
+    "f1-score": 0.9984,
+    "support": 624.0
+  },
+  "erythroblast": {
+    "precision": 0.9967532467532467,
+    "recall": 0.9871382636655949,
+    "f1-score": 0.9919224555735057,
+    "support": 311.0
+  },
+  "immature granulocyte": {
+    "precision": 0.9609507640067911,
+    "recall": 0.9775474956822107,
+    "f1-score": 0.9691780821917808,
+    "support": 579.0
+  },
+  "lymphocyte": {
+    "precision": 0.9918032786885246,
+    "recall": 0.9958847736625515,
+    "f1-score": 0.9938398357289527,
+    "support": 243.0
+  },
+  "monocyte": {
+    "precision": 0.9929078014184397,
+    "recall": 0.9859154929577465,
+    "f1-score": 0.9893992932862191,
+    "support": 284.0
+  },
+  "neutrophil": {
+    "precision": 0.9818181818181818,
+    "recall": 0.972972972972973,
+    "f1-score": 0.9773755656108597,
+    "support": 666.0
+  },
+  "platelet": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 470.0
+  },
+  "accuracy": 0.9874305758550131,
+  "macro avg": {
+    "precision": 0.9896132691376639,
+    "recall": 0.988395489621733,
+    "f1-score": 0.9889855974645527,
+    "support": 3421.0
+  },
+  "weighted avg": {
+    "precision": 0.9875076874682248,
+    "recall": 0.9874305758550131,
+    "f1-score": 0.9874481054931251,
+    "support": 3421.0
+  }
+}

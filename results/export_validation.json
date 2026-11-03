@@ -1,0 +1,19 @@
+{
+  "classifier_metric_rows_recomputed": 16,
+  "prediction_labels_and_ids_match_saved_features": true,
+  "exported_svms_reproduce_reported_predictions": true,
+  "raw_example_ga_predictions_match_saved_feature_predictions": true,
+  "model_bundle_size_bytes": 97122781,
+  "densenet_test_accuracy": 0.9877228880444314,
+  "test_images": 3421,
+  "features_before": 1024,
+  "features_after": 241,
+  "feature_reduction_percent": 76.46484375,
+  "selected_svm_C": 0.1,
+  "ga_selection_used_test_labels": false,
+  "svm_all_test_accuracy": 0.9891844489915229,
+  "svm_all_correct": 3384,
+  "svm_ga_selected_test_accuracy": 0.9874305758550131,
+  "svm_ga_selected_correct": 3378,
+  "svm_change_percentage_points": -0.17538731365097648
+}

@@ -1,0 +1,15 @@
+data/
+run/
+release_assets/
+.validation/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.download
+run_local.py
+execute_notebook.py
+finalize_project.py
+status.py
+provenance/medmnist_info.py.txt
+blood_cell_work/
