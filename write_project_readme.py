@@ -136,6 +136,11 @@ The notebook outputs are produced in fresh Jupyter kernels on the project server
 Hosted Colab/Kaggle execution is not claimed. The notebook provides installation,
 GPU checks and paths for both platforms.
 
+Verification also passed with empty caches and anonymous public downloads.
+A separate reduced-budget GA run checked the optional experiment cells through
+classifier comparison and checkpoint export. The published scores remain from
+the original 20-generation search. See the validation records in `results/`.
+
 ## Attribution
 
 BloodMNIST is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

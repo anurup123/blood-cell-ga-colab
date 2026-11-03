@@ -426,8 +426,8 @@ md("""
 
 Extraction never shuffles. Features, labels, and image IDs are saved together.
 The original head must give matching predictions from extracted features and
-from the complete image model. This guards against the alignment bug in the
-earlier skin-image project.
+from the complete image model. This checks that extraction preserves the
+trained model's predictions.
 """)
 code(source_functions('pipeline.py', ['extract_features']))
 code("""
